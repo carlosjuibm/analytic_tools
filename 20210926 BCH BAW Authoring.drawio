@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T23:40:44.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="gVOnOzp_iZkVumAnAEEt" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T23:41:14.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yWEvGIlKufyN_6O2tNo0" version="15.3.2" type="github">
   <diagram id="dwVqdOLoBZWX3fJcUKrM" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Region layer" style="" parent="0" />
         <mxCell id="Mvm1oyz63STRThyXKM0V-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;arcSize=2;fillColor=#f4f3ef;" parent="1" vertex="1">
-          <mxGeometry x="25" y="110" width="520" height="520" as="geometry" />
+          <mxGeometry x="25" y="110" width="520" height="480" as="geometry" />
         </mxCell>
         <mxCell id="Mvm1oyz63STRThyXKM0V-2" value="&lt;font color=&quot;#3f3a36&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Oracle Cloud Infrastructure (Region)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="45.00230452674896" y="120" width="260" height="20" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="450.00230452674896" y="120" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MoFwSUSyxBEC_ITN7L_5-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.downdetector.com%2Fstatic%2Fuploads%2Flogo%2Foracle-cloud.png&amp;f=1&amp;nofb=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="586" width="117.71" height="40" as="geometry" />
+          <mxGeometry x="30" y="550" width="117.71" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvm1oyz63STRThyXKM0V-20" value="Availability domain layer" style="" parent="0" />
         <mxCell id="JLlgExNKZI0VBw3Vx1Ag-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;arcSize=2;fillColor=#DFDDD9;" parent="Mvm1oyz63STRThyXKM0V-20" vertex="1">
